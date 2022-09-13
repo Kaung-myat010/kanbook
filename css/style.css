@@ -1,0 +1,26 @@
+
+}
+h1,h2,h3,h4,h5,h6,p{
+	font-family:'Engravers MT',cursive;
+}
+header{
+	background: url(../image/zA.jpg);
+	height: 150vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	opacity: 1;
+	background-size: cover;
+}
+
+/*start footer*/
+
+#footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #1D1D1D;
+	text-align: center;
+	height: 45px;
+	width: 100%; vertical-align:middle;}
+/*end footer*/
